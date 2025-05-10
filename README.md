@@ -60,7 +60,10 @@ The project aims to demonstrate how Excel can be used not just for tabular data 
 
 ## 📷 Preview
 
-*(Add a screenshot here after uploading a PNG/JPG image of the dashboard)*
+## 📷 Dashboard Preview
+
+![Dashboard Preview](https://github.com/Saileshhh/Data-Analysis/blob/main/Dashboard-Preview.png?raw=true)
+
 
 
 
